@@ -37,7 +37,7 @@ for(let participante of participantes) {
 }
 
 ```
-# HTML 
+
 
 #css
 * {
